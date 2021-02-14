@@ -65,3 +65,5 @@ function maxRep(str) {
     return result;
 }
 console.log(maxRep('aaaaaabbcbbbbbcbbbb'));
+
+
